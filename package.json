@@ -11,7 +11,15 @@
     "name": "Sanjay Kumar Kuamravelan"
   },
   "license": "MIT",
-  "keywords": ["vscode theme", "dark", "theme", "purple", "purple crimson", "crimson", "crimson dark"],
+  "keywords": [
+    "vscode theme",
+    "dark",
+    "theme",
+    "purple",
+    "purple crimson",
+    "crimson",
+    "crimson dark"
+  ],
   "categories": [
     "Themes"
   ],
@@ -24,5 +32,9 @@
         "path": "./themes/Purple Crimson (Dark)-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashedalgorithm/purple-crimson.git"
   }
 }
