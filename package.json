@@ -1,0 +1,21 @@
+{
+  "name": "purple-crimson",
+  "displayName": "Purple Crimson",
+  "description": "Dark Color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Crimson (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Crimson (Dark)-color-theme.json"
+      }
+    ]
+  }
+}
