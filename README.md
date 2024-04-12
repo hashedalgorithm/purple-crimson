@@ -1,5 +1,6 @@
 # PurpleFlat Theme for VSCode 🎨🚀
 
+![purplecrimson](https://github.com/hashedalgorithm/purple-crimson/assets/53309069/7106a73d-56b5-4ec2-8891-70056d2a08e4)
 
 ## Description
 
