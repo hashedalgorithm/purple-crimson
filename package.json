@@ -6,9 +6,16 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "publisher": "hashedalgorithm",
+  "author": {
+    "name": "Sanjay Kumar Kuamravelan",
+  },
+  "license": "MIT",
+  "keywords": ["vscode theme", "dark", "theme", "purple", "purple crimson", "crimson", "crimson dark"],
   "categories": [
     "Themes"
   ],
+  "icon": "purplecrimson.png",
   "contributes": {
     "themes": [
       {
